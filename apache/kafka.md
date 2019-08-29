@@ -18,5 +18,11 @@ $ kafka-topics --create --topic=hello --zookeeper=localhost:2181 --partitions=1 
 ```
 
 
+### c++ example
+```bash
+$ git clone https://github.com/mfontanini/cppkafka
+```
+
+
 ### 别的操作被人问到了再写……
 
